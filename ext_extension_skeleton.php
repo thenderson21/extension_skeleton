@@ -8,7 +8,7 @@
  * @copyright	Copyright (c) 2013, Todd Henderson
  * @license		http://www.gnu.org/copyleft/gpl.html GNU General Public License, version 3
  */
-require_once PATH_THIRD . 'spe_login/config.php';
+require_once PATH_THIRD . 'extension_skeleton/config.php';
 
 class Extension_skeleton_ext {
 
